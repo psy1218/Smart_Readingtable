@@ -1,4 +1,3 @@
-<img width="1103" height="610" alt="image" src="https://github.com/user-attachments/assets/e5ccb547-7740-4afd-b4d2-8f5a03bbd702" /># 📚 스마트 독서대 (Smart Bookstand)
 
 ## 📖 프로젝트 개요
 스마트 독서대는 **독서 환경을 최적화**하기 위해 제작된 임베디드 시스템 기반 프로젝트입니다.  
@@ -59,7 +58,7 @@
 
 ---
 
-## 📸 시연 이미지 / 영상
+## 📸 이미지 
 <img width="1103" height="610" alt="image" src="https://github.com/user-attachments/assets/9e740233-f63f-4a00-848f-d9c2a9b19e67" />
 
 ---
